@@ -1,1 +1,4 @@
-# APP_Forum_of_Small_States
+# Mobile APP for the Forum of Small States
+
+Background info:
+https://www.unitar.org/forum-small-states-interactive-session-held-new-york
